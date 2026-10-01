@@ -1,0 +1,4 @@
+jenis jenis routing dan switching
+jenis jenis protokol jaringan
+jenis jenis perangkat jaringan beserta fungsinya (cisco,mikrotik dll)(spek2 dari perangkat jaringan (tipe dari speknya apa aja)
+latihan dengan buat topologi jaringan di sebuah perusahaan
