@@ -1,6 +1,9 @@
 # Small-Business Inter-VLAN Routing & Network Segmentation Infrastructure
 ## This project was created to illustrate the network topology of a small company or small startup that is just starting its business journey
 
+## Topology
+![Topology image](images/topology.png)
+
 ## VLAN Table
 |VLAN ID|Name/Departement|Network Address|Subnet Mask|Default Gateway|Usable Host Range|
 | :--- | :--- | :--- | :--- | :--- | :--- |
